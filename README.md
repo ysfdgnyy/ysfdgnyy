@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm YSF</h1>
 <h3 align="center">Node Runner - RC</h3>
+<h4 align="left">Hello, I'm Yusuf. I've been actively involved in the cryptocurrency and blockchain space since 2020. I started my journey by participating in testnets, and since then, I've been part of numerous projects. With the experience gained in the crypto world, I engage in NFT trading, presales, trading (trade), and early-stage investments.
+I've joined many projects at early stages, gaining valuable insights throughout the process. Beyond cryptocurrencies, I enjoy exploring opportunities in different blockchain projects and the Web3 ecosystem. I continuously research new technologies and projects to expand my knowledge in this dynamic and rapidly evolving field.
+On GitHub, I share my work and contributions to projects within this space. My goal is to keep learning and growing while contributing to the community and being part of exciting new projects.
+
+</h4>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
